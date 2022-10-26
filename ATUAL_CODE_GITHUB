@@ -1,7 +1,16 @@
+
+
+
 (olist-env) home@home-PC:~/Documentos/OLIST$ git init
+
+#
+
 (olist-env) home@home-PC:~/Documentos/OLIST$ git add .
 (olist-env) home@home-PC:~/Documentos/OLIST$ git status
 (olist-env) home@home-PC:~/Documentos/OLIST$ git commit -m "atualização"
 (olist-env) home@home-PC:~/Documentos/OLIST$ git remote add origin https://github.com/ValmirJrDS/projeto-olist.git
 (olist-env) home@home-PC:~/Documentos/OLIST$ git branch -M main
 origin main(olist-env) home@home-PC:~/Documentos/OLIST$ git push -u origin main
+
+
+
